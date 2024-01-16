@@ -1,0 +1,13 @@
+{
+  "name": "nekos_study",
+  "version": "1.0.0",
+  "description": "Изучение новых технологий, репозиторий для практики",
+  "main": "index.js",
+  "scripts": {
+    "hello_world": "node java_script/hello_world.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
