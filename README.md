@@ -12,5 +12,7 @@
 
 
 ## Изучить
-⋄ Java Script ⋄ JQuery ⋄ Ajax
+⋄ Java Script ⋄ JQuery ⋄ Ajax 
+
+⋄ Machine learning
 <br /> <br />
