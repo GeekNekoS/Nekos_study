@@ -1,8 +1,8 @@
-function testSum(a, b) {
+function sum(a, b) {
     let x;
     x = a + b;
     return x;
 }
 
-const ans = testSum(10, 5)
+const ans = sum(10, 5)
 console.log(ans)
