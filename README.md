@@ -15,4 +15,6 @@
 ⋄ Java Script ⋄ JQuery ⋄ Ajax 
 
 ⋄ Machine learning
+
+⋄ Flask ⋄ Django
 <br /> <br />
